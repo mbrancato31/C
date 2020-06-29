@@ -1,4 +1,4 @@
-Programs written in C for and Computer Science 1 and personal project.
+Programs written in C for Computer Science 1 and personal project.
 
 ### How to Run any program
 Open command line
