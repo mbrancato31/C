@@ -1,1 +1,0 @@
-Basic game with blackjack, slot machine and poker mad efor final project.
