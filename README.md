@@ -1,1 +1,1 @@
-Programs written in C for C course and Computer Science 1.
+Programs written in C for and Computer Science 1 and personal project.
